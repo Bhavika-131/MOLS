@@ -1,0 +1,62 @@
+RECEPTOR,AGONIST,SMILES
+OR51E1,butyl butyryl lactate,CCCCOC(=O)C(C)OC(=O)CCC
+,valeric acid,CCCCC(=O)O
+,4-Methylvaleric acid,CC(C)CCC(=O)O
+,5-Norbornene-2-carboxylic acid,C1C2CC(C1C=C2)C(=O)O
+,2-Methylvaleric acid,CCCC(C)C(=O)O
+,3-Methylvaleric Acid,CCC(C)CC(=O)O
+,2-Decenoic acid,CCCCCCCC=CC(=O)O
+,isovaleric acid,CC(C)CC(=O)O
+,nonanoic acid,CCCCCCCCC(=O)O
+,3-methylpentanoic acid,CCC(C)CC(=O)O
+,4-methylpentanoic acid,CC(C)CCC(=O)O
+,butyric acid,CCCC(=O)O
+,2-Methylbutyric acid,CCC(C)C(=O)O
+,Cyclobutanecarboxylic acid,C1CC(C1)C(=O)O
+,Benzaldehyde,C1=CC=C(C=C1)C=O
+,"2,3-Butanediol",CC(C(C)O)O
+,Coumarin,C1=CC=C2C(=C1)C=CC(=O)O2
+,octanoic acid,CCCCCCCC(=O)O
+,octanal,CCCCCCCC=O
+,Benzophenone,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2
+,Methyl eugenol,COC1=C(C=C(C=C1)CC=C)OC
+,p-Cymene,CC1=CC=C(C=C1)C(C)C
+,5-Heptyldihydrofuran-2(3H)-one,CCCCCCCC1CCC(=O)O1
+,Ethyl caprylate,CCCCCCCC(=O)OCC
+,Piperidine,C1CCNCC1
+,Heptanoic acid,CCCCCCC(=O)O
+,2-Nonenoic acid,CCCCCCC=CC(=O)O
+,4-Methyl-nonamoic acid,CCCCCC(C)CCC(=O)O
+,Hexylamine,CCCCCCN
+,1-Hexanol,CCCCCCO
+,Octanethiol,CCCCCCCCS
+,Nonanoic acid,CCCCCCCCC(=O)O
+,Benzyl acetate,CC(=O)OCC1=CC=CC=C1
+,Hexyl acetate,CCCCCCOC(=O)C
+,Pentyl propionate,CCCCCOC(=O)CC
+,Allyl phenylacetate,C=CCOC(=O)CC1=CC=CC=C1
+,Hexanoic Acid,CCCCCC(=O)O
+,Hexyl acetate,CCCCCCOC(=O)C
+,nonanal,CCCCCCCCC=O
+,1-octen-3-one,CCCCCC(=O)C=C
+,(-)-Carvone,CC1=CCC(CC1=O)C(=C)C
+,Geraniol,CC(=CCCC(=CCO)C)C
+,(E)-2-Hexenal,CCCC=CC=O
+,Guaiacol,COC1=CC=CC=C1O
+OR51E2,propionate,CCC(=O)[O-]
+,1-Heptanol,CCCCCCCO
+,heptanal,CCCCCCC=O
+,Methyl salicylate,COC(=O)C1=CC=CC=C1O
+,(+)-menthol,CC1CCC(C(C1)O)C(C)C
+,"2,4-dinitrotoluene",CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]
+,Dimethyl disulfide,CSSC
+OR51D1,Methyl furfuryl disulfide,CSSCC1=CC=CO1
+,Pentanol,CCCCCO
+,Propanal,CCC=O
+,Pyrazine,C1=CN=CC=N1
+,Isoamyl acetate,CC(C)CCOC(=O)C
+,propanoic acid,CCC(=O)O
+,19-hydroxyandrostenedione,CC12CCC3C(C1CCC2=O)CCC4=CC(=O)CCC34CO
+,(E)-beta-Ionone,CC1=C(C(CCC1)(C)C)C=CC(=O)C
+,(E)-alpha-Ionone,CC1=CCCC(C1C=CC(=O)C)(C)C
+,Acetate,CC(=O)[O-]

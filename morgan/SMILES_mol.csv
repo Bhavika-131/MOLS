@@ -1,0 +1,52 @@
+,RECEPTOR ,AGONIST,SMILES
+0,OR51E1,butyl butyryl lactate,CCCCOC(=O)C(C)OC(=O)CCC
+1,,isovaleric acid,CC(C)CC(=O)O
+2,,nonanoic acid,CCCCCCCCC(=O)O
+3,,3-methylpentanoic acid,CCC(C)CC(=O)O
+4,,4-methylpentanoic acid,CC(C)CCC(=O)O
+5,,butyric acid,CCCC(=O)O
+6,,2-Methylbutyric acid,CCC(C)C(=O)O
+7,,Cyclobutanecarboxylic acid,C1CC(C1)C(=O)O
+8,,Benzaldehyde,C1=CC=C(C=C1)C=O
+9,,"2,3-Butanediol",CC(C(C)O)O
+10,,Coumarin,C1=CC=C2C(=C1)C=CC(=O)O2
+11,,octanoic acid,CCCCCCCC(=O)O
+12,,octanal,CCCCCCCC=O
+13,,Benzophenone,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2
+14,,Methyl eugenol,COC1=C(C=C(C=C1)CC=C)OC
+15,,p-Cymene,CC1=CC=C(C=C1)C(C)C
+16,,5-Heptyldihydrofuran-2(3H)-one,CCCCCCCC1CCC(=O)O1
+17,,Ethyl caprylate,CCCCCCCC(=O)OCC
+18,,Piperidine,C1CCNCC1
+19,,Heptanoic acid,CCCCCCC(=O)O
+20,,Hexylamine,CCCCCCN
+21,,1-Hexanol,CCCCCCO
+22,,Octanethiol,CCCCCCCCS
+23,,Nonanoic acid,CCCCCCCCC(=O)O
+24,,Benzyl acetate,CC(=O)OCC1=CC=CC=C1
+25,,Hexyl acetate,CCCCCCOC(=O)C
+26,,Pentyl propionate,CCCCCOC(=O)CC
+27,,Allyl phenylacetate,C=CCOC(=O)CC1=CC=CC=C1
+28,,Hexyl acetate,CCCCCCOC(=O)C
+29,,nonanal,CCCCCCCCC=O
+30,,1-octen-3-one,CCCCCC(=O)C=C
+31,,(-)-Carvone,CC1=CC[C@H](CC1=O)C(=C)C
+32,,Geraniol,CC(=CCC/C(=C/CO)/C)C
+33,,(E)-2-Hexenal,CCC/C=C/C=O
+34,,Guaiacol,COC1=CC=CC=C1O
+35,,1-Heptanol,CCCCCCCO
+36,,heptanal,CCCCCCC=O
+37,,Methyl salicylate,COC(=O)C1=CC=CC=C1O
+38,,(+)-menthol,C[C@H]1CC[C@@H]([C@H](C1)O)C(C)C
+39,,"2,4-dinitrotoluene",CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]
+40,,Dimethyl disulfide,CSSC
+41,,Methyl furfuryl disulfide,CSSCC1=CC=CO1
+42,,Pentanol,CCCCCO
+43,,Propanal,CCC=O
+44,OR51E2,Pyrazine,C1=CN=CC=N1
+45,,Isoamyl acetate,CC(C)CCOC(=O)C
+46,,propanoic acid,CCC(=O)O
+47,,19-hydroxyandrostenedione,C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=CC(=O)CC[C@]34CO
+48,,(E)-beta-Ionone,CC1=C(C(CCC1)(C)C)/C=C/C(=O)C
+49,,(E)-alpha-Ionone,CC1=CCCC(C1/C=C/C(=O)C)(C)C
+50,,Acetate,CC(=O)[O-]
